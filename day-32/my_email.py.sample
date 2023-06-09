@@ -1,0 +1,5 @@
+EMAIL = {
+    "username": "email@domain.com",
+    "password": "password",
+    "smtp_server": "smtp.domain.com"
+}
